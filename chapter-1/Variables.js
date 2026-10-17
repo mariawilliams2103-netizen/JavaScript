@@ -22,6 +22,7 @@
 // let collegeFee = 23400.5;
 // let value = NaN; // Not a number
 
+
 //VARIABLE NAMING RULES AND CONVENTION
 /**
  * 1. Variable name must not start with a number.Only letters and $ are acceptable to start in a variable name
